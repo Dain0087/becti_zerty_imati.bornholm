@@ -1,5 +1,5 @@
 #becti_zerty_imati.bornholm
-Bornholm port + my on touch with new and edited scripts and complete re script of all towns and units, in order to make Bornholm fit nice.
+Bornholm BECTI port, with my on touch with new and edited scripts and complete re script of all towns and units, in order to make Bornholm fit nice. I have spent hours in making changes and editing the map, and units to make a fun and attractive BECTI for BORNHOLM.
 
 ##Monetization
 This mission (or code that I own inside) __cannot__ be used in a monetization process as defined by BiS at http://www.bistudio.com/monetization & http://www.bistudio.com/monetization/faq
